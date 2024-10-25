@@ -1,3 +1,3 @@
 # Drawing Shapes
 
-A java code that draw shapes such as rectangle, oval etc.
+A Java code that draw shapes such as rectangle, oval etc.
